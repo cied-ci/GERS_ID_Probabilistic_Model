@@ -1,2 +1,2 @@
-# Probabilistic Model to Determine Necessity of New GERS-ID in Overture Maps Data
-This project focuses on the utilization of various data sources (signals, public place datasets, web scraping, user reviews, or directly verified information) to calculate a confidence metric for the existence of a currently unmapped place in Overture's Maps Data. The goal is to use this metric to reliably determine whether the creation of a new GERS-ID is justified.
+# Probabilistic Model to Improve Location Accuracy of Places in Overture Maps Data
+This project focuses on the utilization of various data sources (signals, public place datasets, web scraping, user reviews, or directly verified information) to calculate a confidence metric or probabilistic distribution for the most likely locations of a place in Overture's Maps Data. The goal is to use these metrics to increase location accuracy of POIs.
