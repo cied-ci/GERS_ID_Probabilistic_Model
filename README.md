@@ -6,6 +6,7 @@ Another goal of this project is to be able to predict when a building snap would
 To better quantify the effectiveness of this algorithm, the repo matches data with OpenStreetMap for ground truth, to quantify improvement.
 
 Steps to Run Repo:
+
 Prerequisites: Download the OpenStreetMap parquet file for Northern California and place in same directory as other files: https://download.geofabrik.de/north-america/us/california/norcal-latest.osm.pbf
 
 1. Closest_Building.ipynb: This notebook will take a set of Overture Places and snap them to the closest buildings. Outputs a .csv and .parquet file with the results. Note: Execution of this notebook may take over an hour depending on amount of data selected.
