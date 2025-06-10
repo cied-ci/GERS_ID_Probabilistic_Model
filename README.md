@@ -16,3 +16,19 @@ Prerequisites: Download the OpenStreetMap parquet file for Northern California a
 3. Logistic_Regression.ipynb: This notebook trains a Logistic Regression model to predict if it makes sense to snap a place to its nearest building. Input features include the category of the place, roads (and their types) that would be crossed if the place was snapped, and the distance between the original location and the snapped point.
 
 4. Data_Insights.ipynb: Using the merged parquet file containing Overture and OpenStreetMap data, will give insights about the accuracy of the algorithm, using different metrics. Will provide metrics both for the algorithm that snaps everything, and for the "Selective Snapping" algorithm.
+
+
+## Attribution
+
+This project uses building and places data from the [Overture Maps Foundation](https://overturemaps.org), which includes contributions from:
+
+- © OpenStreetMap contributors (Buildings data) — available under the [Open Database License (ODbL)](https://www.openstreetmap.org/copyright).
+- Places theme data from Meta, Microsoft, and PinMeTo — available under the [CDLA Permissive 2.0 license](https://cdla.io/permissive-2-0/).
+- Other contributors including Esri, Google, USGS, IGN, and research datasets — under their respective open data licenses such as CC BY 4.0 and ODbL.
+
+© Overture Maps Foundation. Data used under the [Overture Maps Data License](https://overturemaps.org/data-license/).
+
+Overture Maps data accessed: April 2025
+
+This project also uses OpenStreetMap data as ground truth.  
+© OpenStreetMap contributors. Available under the [Open Database License (ODbL)](https://www.openstreetmap.org/copyright).
