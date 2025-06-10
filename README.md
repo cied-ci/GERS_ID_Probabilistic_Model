@@ -26,7 +26,7 @@ This project uses building and places data from the [Overture Maps Foundation](h
 - Places theme data from Meta, Microsoft, and PinMeTo — available under the [CDLA Permissive 2.0 license](https://cdla.io/permissive-2-0/).
 - Other contributors including Esri, Google, USGS, IGN, and research datasets — under their respective open data licenses such as CC BY 4.0 and ODbL.
 
-© Overture Maps Foundation. Data used under the [Overture Maps Data License](https://overturemaps.org/data-license/).
+© Overture Maps Foundation. Data used under the [Overture Maps Data License](https://docs.overturemaps.org/attribution/).
 
 Overture Maps data accessed: April 2025
 
